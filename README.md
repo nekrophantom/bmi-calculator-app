@@ -1,4 +1,4 @@
-# login_api_app
+# bmi_calculator_app
 
 A new Flutter project.
 
